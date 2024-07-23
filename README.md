@@ -1,6 +1,6 @@
 # Parallel-Corpora-and-LMs
 
-Assignment for the Computational Linguistics Class of 2024. 
+Project for the Computational Linguistics Class of 2024-b semester. 
 
 Given a small corpus from Europarl, I have
 1. Preprocessed the json file
