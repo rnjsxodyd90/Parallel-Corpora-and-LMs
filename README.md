@@ -11,4 +11,4 @@ Given a small corpus from Europarl, I have
 
 Steps to run the files are :
 
-preprocessing - Training-  perplexity 
+preprocessing - Training-  perplexity - calculation
